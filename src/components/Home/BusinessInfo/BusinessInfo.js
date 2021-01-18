@@ -7,7 +7,7 @@ import "./BusinessInfo.css";
 const infosData = [
   {
     title: "Opening Hours",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing",
+    description: "Lorem ipsum dolor sit amet",
     icon: GrClock,
     background: "primary",
   },
